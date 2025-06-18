@@ -4,7 +4,7 @@ A Snapchat-like augmented reality application with face filters, and photo captu
 Note: Build for Android.
 
 ## Features 
-- **5 Interactive Face Filters**:
+- **Interactive Face Filters**:
   - Cat glasses
   - Stars glasses
   - Mask
