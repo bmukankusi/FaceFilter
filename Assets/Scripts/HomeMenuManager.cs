@@ -15,16 +15,12 @@ public class HomeMenuManager : MonoBehaviour
     public Button settingsButton;
     public Button aboutButton;
 
-    // Social media button 
-    //public Button linkedInButtonLink;
-    //public Button instagramButtonLink;
-    //public Button githubButtonLink;
 
     // Go to AR scene
     public void StartAR()
     {
         // Load the AR scene
-        UnityEngine.SceneManagement.SceneManager.LoadScene("ARScene");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("ARFilterScene");
     }
 
     // Show settings panel
