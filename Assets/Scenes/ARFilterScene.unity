@@ -2032,17 +2032,17 @@ PrefabInstance:
     - target: {fileID: 1188674115985160454, guid: 9040588c449278d4fb85ccf0afb67cbe,
         type: 3}
       propertyPath: m_Colors.m_PressedColor.b
-      value: 0.45769137
+      value: 0.745283
       objectReference: {fileID: 0}
     - target: {fileID: 1188674115985160454, guid: 9040588c449278d4fb85ccf0afb67cbe,
         type: 3}
       propertyPath: m_Colors.m_PressedColor.g
-      value: 0.8018868
+      value: 0.745283
       objectReference: {fileID: 0}
     - target: {fileID: 1188674115985160454, guid: 9040588c449278d4fb85ccf0afb67cbe,
         type: 3}
       propertyPath: m_Colors.m_PressedColor.r
-      value: 0.41229087
+      value: 0.745283
       objectReference: {fileID: 0}
     - target: {fileID: 1188674115985160454, guid: 9040588c449278d4fb85ccf0afb67cbe,
         type: 3}
